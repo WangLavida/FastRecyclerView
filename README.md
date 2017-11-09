@@ -3,6 +3,7 @@
 [![](https://jitpack.io/v/WangLavida/FastRecyclerView.svg)](https://jitpack.io/#WangLavida/FastRecyclerView)
 
 自定义RecyclerView上下加载下拉刷新
+
 ##使用步骤
 1. 根目录build.gradle
 
