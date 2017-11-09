@@ -4,7 +4,7 @@
 
 自定义RecyclerView上下加载下拉刷新
 
-##使用步骤
+## 使用步骤
 1. 根目录build.gradle
 
 		allprojects {
